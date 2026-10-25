@@ -33,7 +33,7 @@ The dataset contains approximately 48,895 Airbnb listings and 16 columns describ
 
 - `AB_NYC_2019.csv` – Airbnb dataset 
 - `Cavuturu_Keerthy_LR_Project.ipynb` – Project notebook containing the analysis and code
-- `Minor_Project_2_Airbnb.pdf` – Project report 
+- `Minor_Project_2_Airbnb_Project_Introduction.pdf` – Project report 
 
 ## Tools Used
 
